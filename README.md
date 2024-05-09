@@ -14,7 +14,7 @@ Ce jeu classique vous permet de jouer à deux joueurs sur une grille de 3x3. Il 
 
 ### Demo
 
-(tictactoe.png)
+![Capture d'écran du JEUX](tictactoe.png)
 
 ### Auteur
 [BAH Mamadou](https://bahali21.github.io/BAHMamadou/)

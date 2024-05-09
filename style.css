@@ -153,9 +153,9 @@ footer p, header p {
 
 @media screen and (max-width: 520px) {
     .main-grid{
-        width: 90%;
+        width: 85%;
         height: 400px;
-        margin-top: 20%;
+        margin-top: 10%;
     }
 
     #play-again:hover{
@@ -176,13 +176,13 @@ footer p, header p {
 
 @media screen and (max-width: 400px) {
     .main-grid{
-        width: 90%;
+        width: 85%;
         height: 300px;
-        margin-top: 15%;
+        margin-top: 10%;
     }
 
     .turn-container{
-        padding-top: 20%;
+        padding-top: 10%;
     }
 
     header p{
